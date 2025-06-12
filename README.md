@@ -13,4 +13,4 @@ For our analysis, we focus on two subsets:
 
 We create binary outcome variables indicating whether respondents used formal financial institutions for saving or borrowing. Key predictors include gender, education level, age, urban residence, and wealth quintiles. The wealth variable is binned into quintiles based on national distribution.
 
-Regression analysis (logit and probit models) and marginal effects estimation are conducted to investigate the relationship between these demographic and socioeconomic characteristics and formal financial institution usage
+Regression analysis (logit and probit models) and marginal effects estimation are conducted to investigate the relationship between these demographic and socioeconomic characteristics and formal financial institution usage.
